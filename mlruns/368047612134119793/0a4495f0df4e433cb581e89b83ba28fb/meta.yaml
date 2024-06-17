@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/0a4495f0df4e433cb581e89b83ba28fb/artifacts
+end_time: 1717701742732
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: 0a4495f0df4e433cb581e89b83ba28fb
+run_name: delicate-snail-595
+run_uuid: 0a4495f0df4e433cb581e89b83ba28fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701717432
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/04dd001935314995ade58decf22bcbe9/artifacts
+end_time: 1717701331604
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: 04dd001935314995ade58decf22bcbe9
+run_name: luxuriant-skink-162
+run_uuid: 04dd001935314995ade58decf22bcbe9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701320652
+status: 3
+tags: []
+user_id: codespace

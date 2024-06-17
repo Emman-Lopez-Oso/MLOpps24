@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/cc2479663c494aa1b4b6dfbd1cca7385/artifacts
+end_time: 1717701371741
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: cc2479663c494aa1b4b6dfbd1cca7385
+run_name: efficient-mole-581
+run_uuid: cc2479663c494aa1b4b6dfbd1cca7385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701360691
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/fbddd107e16149fd9d96f51d46acbb3e/artifacts
+end_time: 1717701432679
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: fbddd107e16149fd9d96f51d46acbb3e
+run_name: upset-shoat-524
+run_uuid: fbddd107e16149fd9d96f51d46acbb3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701413582
+status: 3
+tags: []
+user_id: codespace

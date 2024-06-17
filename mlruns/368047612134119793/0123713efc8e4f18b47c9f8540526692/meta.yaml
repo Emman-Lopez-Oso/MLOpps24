@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/0123713efc8e4f18b47c9f8540526692/artifacts
+end_time: 1717701671821
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: 0123713efc8e4f18b47c9f8540526692
+run_name: crawling-sheep-818
+run_uuid: 0123713efc8e4f18b47c9f8540526692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701646528
+status: 4
+tags: []
+user_id: codespace

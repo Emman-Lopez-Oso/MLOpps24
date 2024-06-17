@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/2aacf05d7e0d4712ba5b9dc091b02346/artifacts
+end_time: 1717701320637
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: 2aacf05d7e0d4712ba5b9dc091b02346
+run_name: gregarious-eel-551
+run_uuid: 2aacf05d7e0d4712ba5b9dc091b02346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701294448
+status: 3
+tags: []
+user_id: codespace

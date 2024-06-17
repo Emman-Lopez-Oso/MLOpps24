@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/d148506a3c774048b00dd7ce878819e2/artifacts
+end_time: 1717701472244
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: d148506a3c774048b00dd7ce878819e2
+run_name: gregarious-horse-113
+run_uuid: d148506a3c774048b00dd7ce878819e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701457930
+status: 3
+tags: []
+user_id: codespace

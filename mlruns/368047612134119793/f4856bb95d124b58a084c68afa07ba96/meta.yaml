@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/368047612134119793/f4856bb95d124b58a084c68afa07ba96/artifacts
+end_time: 1717701457923
+entry_point_name: ''
+experiment_id: '368047612134119793'
+lifecycle_stage: active
+run_id: f4856bb95d124b58a084c68afa07ba96
+run_name: amusing-cow-588
+run_uuid: f4856bb95d124b58a084c68afa07ba96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717701432689
+status: 3
+tags: []
+user_id: codespace
