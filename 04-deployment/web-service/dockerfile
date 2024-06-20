@@ -1,0 +1,14 @@
+FROM agrigorev/zoomcamp-model:mlops-2024-3.10.13-slim
+
+# Install the required Python packages
+RUN pip install -U pip
+RUN pip install flask pandas pyarrow scikit-learn
+
+WORKDIR /app
+
+COPY predict.py .
+
+EXPOSE 9696
+
+# Command to run the Flask application
+CMD ["python", "predict.py"]
